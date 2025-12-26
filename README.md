@@ -78,25 +78,5 @@ This project is created for educational purposes.
 
 
 
----
-
-### ✅ Step 4: Save the File
-1. Scroll down
-2. In **Commit message**, type:
-3. Click **Commit new file**
-
-🎉 DONE!  
-Your README will now appear **automatically on the repository home page**.
-
----
-
-# 🔹 WAY 2: Add README USING COMMAND LINE (OPTIONAL)
-
-If you prefer terminal:
-
-### Step 1: Create README file
-```bash
-README.md
-
 
 
